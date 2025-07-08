@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="static/WP.png" alt="wpcracker" width="150px">
+  <img src="static/WP.png" alt="wpcracker" width="200px" length="300px">
   <br>
 </h1>
 
